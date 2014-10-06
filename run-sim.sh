@@ -1,1 +1,1 @@
-/home/user1/Desktop/Link to Codes/run-sim.sh
+/home/user1/Desktop/Codes/run-sim.sh
